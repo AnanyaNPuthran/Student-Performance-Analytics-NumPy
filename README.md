@@ -32,7 +32,7 @@ The project also includes an interactive Student Performance Dashboard developed
 
 ### Dashboard Preview
 
-![Student Performance Dashboard](Student_Performance_Dashboard.png)
+![Student Performance Dashboard](DASHBOARD.PNG.png)
 
 ### Dashboard Features
 - KPI Cards
