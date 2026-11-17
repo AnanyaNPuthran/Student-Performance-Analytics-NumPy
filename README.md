@@ -1,10 +1,10 @@
-# 📊 Student Performance Analytics using NumPy
+#  Student Performance Analytics using NumPy
 
-## 📌 About the Project
+##  About the Project
 
 This project uses Python and NumPy to analyse student performance and perform different numerical operations. It focuses on array operations, mathematical calculations, statistical analysis, and data manipulation.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -13,7 +13,7 @@ This project uses Python and NumPy to analyse student performance and perform di
 - Power BI
 - DAX
 
-## ✨ Features
+##  Features
 
 - Array Creation
 - Array Indexing and Slicing
@@ -26,13 +26,13 @@ This project uses Python and NumPy to analyse student performance and perform di
 - Subject-wise Average Analysis
 - Pass/Fail Analysis
 
-## 📸 Python Project Screenshots
+##  Python Project Screenshots
 
 Screenshots of Python program outputs are available in the `screenshot` folder.
 
 ---
 
-## 📈 Dashboard 1: Student Performance Dashboard using Excel
+##  Dashboard 1: Student Performance Dashboard using Excel
 
 An interactive student performance dashboard created using Microsoft Excel to analyse student marks, percentages, and results.
 
@@ -53,13 +53,13 @@ An interactive student performance dashboard created using Microsoft Excel to an
 
 ---
 
-## 📊 Dashboard 2: Student Performance Dashboard using Power BI
+##  Dashboard 2: Student Performance Dashboard using Power BI
 
 A visual and interactive dashboard developed using Microsoft Power BI and DAX to explore student performance and academic results.
 
 ### Dashboard Preview
 
-![Power BI Student Performance Dashboard](POWER_BI_DASHBOARD.png)
+![Power BI Student Performance Dashboard](POWER_BI_DASHBOARD.png.png)
 
 ### Features
 
@@ -80,6 +80,6 @@ A visual and interactive dashboard developed using Microsoft Power BI and DAX to
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Ananya N Puthran**
