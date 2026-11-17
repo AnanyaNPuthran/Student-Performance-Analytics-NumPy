@@ -59,7 +59,7 @@ A visual and interactive dashboard developed using Microsoft Power BI and DAX to
 
 ### Dashboard Preview
 
-![Power BI Student Performance Dashboard](POWER_BI_DASHBOARD.png.png)
+![Power BI Student Performance Dashboard](screenshot/POWER_BI_DASHBOARD.png.png)
 
 ### Features
 
@@ -67,16 +67,16 @@ A visual and interactive dashboard developed using Microsoft Power BI and DAX to
 - Class Average
 - Passed Students
 - Failed Students
+- Top 5 Students Ranking
+- Pass vs Fail Donut Chart
 - Highest Percentage
 - Lowest Percentage
 - Subject-wise Average Marks
-- Top 5 Students Ranking
-- Pass vs Fail Donut Chart
 - Interactive Student Name Slicer
 - Student Performance Details
 - Performance Summary
 
-**Power BI Dashboard File:** [View / Download Power BI Dashboard](Student_Performance_Dashboard.pbix)
+**Power BI Dashboard File:** [View / Download Power BI Dashboard](Student performance dashboard using Power BI.pbix)
 
 ---
 
